@@ -28,20 +28,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [I QUIT My Job as an Engineer...](https://www.youtube.com/watch?v=wskcgc2AeV8)
-- [Don't Mess Up This Technical Interview Question | Use JavaScript Map() & Set() Objects](https://www.youtube.com/watch?v=oMvzICS-9l4)
-- [😢 STACKr News Canceled?? This Could Be The Last Issue (STACKr News 2021, Issue #11)](https://www.youtube.com/watch?v=jpox3uizTs8)
-- [10 Things I Wish I Knew Before I Started Programming](https://www.youtube.com/watch?v=x4gu6JGwKAI)
-- [[#10] Don't MISS These Amazing Web Dev Videos! (STACKr News 2021, Issue #10)](https://www.youtube.com/watch?v=xDVgpW1tig4)
-<!-- YOUTUBE:END -->
-
-## ➡️ [more videos...](https://www.youtube.com/channel/UCwvinMT5d12fjOGZprmAbLQ)
-
----
-
 [twitter]: https://twitter.com/Toxtricity26
 [youtube]: https://www.youtube.com/channel/UCwvinMT5d12fjOGZprmAbLQ
 [instagram]: https://www.instagram.com/sreenidh26/
