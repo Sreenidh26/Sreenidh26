@@ -3,7 +3,7 @@
 ## I'm a Developer, Editor, Soccer Player, and Graphic Designer!!
 
 - 🔭 I am working on a runner game
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning C# and unity
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
