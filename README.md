@@ -2,8 +2,8 @@
 
 ## I'm a Developer, Editor, Soccer Player, and Graphic Designer!!
 
-- 🔭 I am working on a runner game
-- 🌱 I’m currently learning C# and unity
+- 🔭 I am working on a cryptocurrency tracker app
+- 🌱 I’m currently learning Java and Android Studio
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
